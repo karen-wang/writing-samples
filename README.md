@@ -1,2 +1,2 @@
-# writing-samples
-A collection of technical and scientific writing samples.
+# Writing Samples
+A collection of my technical and scientific writing samples.
