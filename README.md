@@ -6,7 +6,7 @@ A collection of my writing samples.
 I co-authored this peer-reviewed research paper under the supervision Professor Steve Cooper to determine whether improving a student's spatial abilities would improve her programming abilities. We presented the paper at the 2015 International Computing Education Research (ICER) Conference.
 
 * Abstract: [https://dl.acm.org/doi/10.1145/2787622.2787728](https://dl.acm.org/doi/10.1145/2787622.2787728)
-* Paper: [PDF]()
+* Paper: [PDF](spatial_skills.pdf)
 
 **Reflection Symmetry in the Game of Daisy**
 
