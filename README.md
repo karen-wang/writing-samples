@@ -10,7 +10,7 @@ I co-authored this peer-reviewed research paper under the supervision Professor 
 
 **Reflection Symmetry in the Game of Daisy**
 
-I wrote and published this article in the *Pi in the Sky* mathematics journal. It discusses the use of reflection symmetry to develop a winning strategy.
+I wrote and published this article in the *Pi in the Sky* mathematics journal. It discusses the use of reflection symmetry to develop a winning strategy in a two-person game.
 
 * Article: [PDF](pi_in_the_sky.pdf)
 
