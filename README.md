@@ -16,6 +16,6 @@ I wrote and published this article in the *Pi in the Sky* mathematics journal. I
 
 **Skater Grandpa**
 
-My personal blog with essays on sociology, psychology, and other topics.
+My personal blog.
 
 * Link: [https://skatergrandpa.substack.com](https://skatergrandpa.substack.com)
