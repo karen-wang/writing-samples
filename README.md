@@ -1,21 +1,14 @@
 # Writing Samples
 A collection of my writing samples.
 
-**Spatial Skills Training in Introductory Computing**
+**[Goodreads by Gender](https://github.com/karen-wang/goodreads-by-gender)**
 
-I co-authored this peer-reviewed research paper under the supervision Professor Steve Cooper to determine whether improving a student's spatial abilities would improve her programming abilities. We presented the paper at the 2015 International Computing Education Research (ICER) Conference.
+An exploratory data analysis of Goodreads reviews.
 
-* Abstract: [https://dl.acm.org/doi/10.1145/2787622.2787728](https://dl.acm.org/doi/10.1145/2787622.2787728)
-* Paper: [PDF](spatial_skills.pdf)
+**[Reflection Symmetry in the Game of Daisy](pi_in_the_sky.pdf)**
 
-**Reflection Symmetry in the Game of Daisy**
+An explanation of how to develop a winning strategy in a two-person game. Published in *Pi in the Sky* magazine, Issue 15.
 
-I wrote and published this article in the *Pi in the Sky* mathematics journal. It discusses the use of reflection symmetry to develop a winning strategy in a two-person game.
+**[Spatial Skills Training in Introductory Computing](spatial_skills.pdf)**
 
-* Article: [PDF](pi_in_the_sky.pdf)
-
-**Skater Grandpa**
-
-My personal blog.
-
-* Link: [https://skatergrandpa.substack.com](https://skatergrandpa.substack.com)
+A peer-reviewed research paper presented at the 2015 International Computing Education Research (ICER) Conference.
