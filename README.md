@@ -1,6 +1,10 @@
 # Writing Samples
 A collection of my writing samples.
 
+**[How to Analyze Your Yearly Expenses in Colab](https://github.com/karen-wang/colab-yearly-expenses/blob/main/How_to_Analyze_Your_Yearly_Expenses_in_Colab.ipynb)**
+
+A Colab notebook tutorial on analyzing one's personal spending habits using Google Colaboratory and the `pandas` library.
+
 **[Goodreads by Gender](https://github.com/karen-wang/goodreads-by-gender)**
 
 An exploratory data analysis of Goodreads reviews.
