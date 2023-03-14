@@ -1,5 +1,7 @@
 # Writing Samples
 
+## Personal & University Projects
+
 **[How to Analyze Your Yearly Expenses in Colab](https://github.com/karen-wang/colab-yearly-expenses/blob/main/How_to_Analyze_Your_Yearly_Expenses_in_Colab.ipynb)**
 
 A Colab notebook tutorial on using the `pandas` library to analyze your spending habits.
@@ -11,6 +13,8 @@ An exploratory data analysis of Goodreads reviews.
 **[SherlockNet: Exploring 400 Years of Western Book Illustrations With Convolutional Neural Networks](sherlocknet.pdf)**
 
 A research paper on using convolutional neural networks to categorize book illustrations from the British Library.
+
+## Published Works
 
 **[Reflection Symmetry in the Game of Daisy](pi_in_the_sky.pdf)**
 
