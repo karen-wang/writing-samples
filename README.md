@@ -10,7 +10,7 @@ An exploratory data analysis of Goodreads reviews.
 
 **[Reflection Symmetry in the Game of Daisy](pi_in_the_sky.pdf)**
 
-An explanation of how to develop a winning strategy in a two-person game. Published in *Pi in the Sky* magazine, Issue 15.
+An explanation of a winning strategy in a two-person game. Published in *Pi in the Sky* magazine, Issue 15.
 
 **[Spatial Skills Training in Introductory Computing](spatial_skills.pdf)**
 
