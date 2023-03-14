@@ -8,6 +8,10 @@ A Colab notebook tutorial on using the `pandas` library to analyze your spending
 
 An exploratory data analysis of Goodreads reviews.
 
+**[SherlockNet: Exploring 400 Years of Western Book Illustrations With Convolutional Neural Networks](sherlocknet.pdf)**
+
+A research paper on using convolutional neural networks to categorize book illustrations from the British Library.
+
 **[Reflection Symmetry in the Game of Daisy](pi_in_the_sky.pdf)**
 
 An explanation of a winning strategy in a two-person game. Published in *Pi in the Sky* magazine, Issue 15.
