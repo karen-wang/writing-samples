@@ -6,4 +6,4 @@ A tutorial on how to use topological sorting to write a class-scheduling functio
 
 **[How to Analyze Your Yearly Expenses in Colab](https://github.com/karen-wang/colab-yearly-expenses/blob/main/How_to_Analyze_Your_Yearly_Expenses_in_Colab.ipynb)**
 
-A tutorial on how to use the `pandas` library to analyze your spending habits.
+A tutorial on how to use Google Colaboratory and the `pandas` library to analyze your spending habits.
